@@ -1,3 +1,6 @@
+[![Internet Agentur Scherer – Hero](./assets/hero.png)](https://www.internetagentur-scherer.de)
+
+
 # Internet Agentur Scherer
 
 **Webdesign, Online-Marketing & digitale Transformation – mit messbarer Performance und viel Praxis.**  
